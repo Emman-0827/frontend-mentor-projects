@@ -28,8 +28,8 @@ Creating a Recipe page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://emman-0827.github.io/frontend-mentor-projects/)
+- Solution URL: https://www.frontendmentor.io/solutions/recipe-page-using-html-and-css-MfY-oRnqHB
+- Live Site URL: https://emman-0827.github.io/frontend-mentor-projects/
 
 ## My process
 
