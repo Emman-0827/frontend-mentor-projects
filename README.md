@@ -29,7 +29,7 @@ Creating a Recipe page
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://emman-0827.github.io/frontend-mentor-projects/)
 
 ## My process
 
